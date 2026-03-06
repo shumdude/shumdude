@@ -1,9 +1,11 @@
 ## 🛠 Technical Stack
-*   Python
-*   Aiogram 2/3
-*   C# + Unity
-*   tortoise-orm
-*   PostgreSQL, SQlite
-*   Django, DRF
-*   SQLAlchemy, FastAPI
+*   Golang
+*   PostgreSQL, MongoDB, MSSQL, Redis
+*   Kafka
 *   GitHub, Git
+*   Docker
+*   AI-native archeticture
+*   n8n
+*   OpenClaw
+*   MCP, Tools
+*   
