@@ -1,5 +1,5 @@
 ## 🛠 Technical Stack
-*   Golang
+*   Golang (Ex Python)
 *   PostgreSQL, MongoDB, MSSQL, Redis
 *   Kafka
 *   GitHub, Git
