@@ -4,8 +4,5 @@
 *   Kafka
 *   GitHub, Git
 *   Docker
-*   AI-native archeticture
-*   n8n
-*   OpenClaw
-*   MCP, Tools
+*   AI-Agents, AI-native archeticture, n8n, OpenClaw, MCP
 *   
